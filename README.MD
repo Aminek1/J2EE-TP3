@@ -26,4 +26,29 @@ a PatientRepository et on fait l'injection des dependences en utilisant @Autowir
 
 <h4>La page retourner apres avoir taper localhost:8084/index :</h4>
 <img src="Captures/Execution.png" alt="">
+<h4>--------concernant la 2eme partie-------------</h4>
+<h4>On veut afficher une NavBar avec un DropDown et On a cree une template en utilisant Boostrap :
+</h4>
+<img src="Captures/temp1.png" alt="">
+<img src="Captures/temp11.png" alt="">
+<img src="Captures/execution1.png" alt="">
+<h4>Apres on veut ajouter des patients </h4>
+<img src="Captures/formPat.png" alt="">
+<img src="Captures/formPat2.png" alt="">
+<img src="Captures/execution2.png" alt="">
+<h4>Et on veut modifier les Informations du patient </h4>
+<img src="Captures/edit1.png" alt="">
+<img src="Captures/editExe.png" alt="">
+
+
+
+
+
+
+
+
+
+
+
+
 
